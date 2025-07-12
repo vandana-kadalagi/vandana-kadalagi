@@ -11,12 +11,21 @@
 ---
 
 ## About Me
+🎓 Third Year B.E. Student at Basaveshwar Engineering College, India
+⚙️ Passionate about Full Stack Development | DevOps | AR | Machine Learning
+🧪 I enjoy building futuristic tools for the web and system environments that solve real-world problems.
+🏁 Hackathon Enthusiast | Open Source Contributor
+// 🌐 My Portfolio: https://vishal-web-portfolio2.vercel.app
+// 📚 Currently working on: Virtual Try-On for Eyewear (AR + E-commerce)
+🤝 Thrives in team-based, high-energy environments
+
+
 
 - 🎓 Third Year B.E. Student @ Basaveshwar College, India*
 - ⚙ Passionate about *Full Stack | DevOps | AR | ML*
 - 🧪 Love building futuristic web & system tools  
 - 🏁 Hackathon Participant | Open Source Contributor  
-%- 🌐 My Portfolio: [vishal-web-portfolio2.vercel.app](https://vishal-web-portfolio2.vercel.app)%
+- 🌐 My Portfolio: [vishal-web-portfolio2.vercel.app](https://vishal-web-portfolio2.vercel.app)
 - 📚 Currently working on: *Virtual Try-On for Eyewear (AR + E-commerce)*  
 - 🤝 Thrives in team-based, high-energy environments
 

@@ -17,8 +17,6 @@
 - ⚙ Passionate about *Full Stack | DevOps | AR | ML*
 - 🧪 Love building futuristic web & system tools  
 - 🏁 Hackathon Participant | Open Source Contributor  
-- 🌐 My Portfolio: [vishal-web-portfolio2.vercel.app](https://vishal-web-portfolio2.vercel.app)
-- 📚 Currently working on: *Virtual Try-On for Eyewear (AR + E-commerce)*  
 - 🤝 Thrives in team-based, high-energy environments
 
 ---
